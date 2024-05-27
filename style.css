@@ -1,0 +1,15 @@
+div{
+    background-color: grey;
+    text-align: start;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+span{
+    background-color: white;
+    border-radius: 20px;
+    font-family: Impact;
+}
+p{
+    color:white;
+    font-family: monospace;
+}
